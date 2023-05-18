@@ -56,7 +56,7 @@ namespace IterationStatements
 
             foreach (var myNumbers in numbers)
             {
-                Console.WriteLine(numbers);
+                Console.WriteLine($"{myNumbers}");
                 //In the scope of the foreach loop, print each number in numbers
             }
 
